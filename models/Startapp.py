@@ -1,0 +1,2 @@
+class Startapp:
+    pass
